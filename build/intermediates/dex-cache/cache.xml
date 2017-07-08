@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Server_Posting\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Server_Posting\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_aca10805acc644ad7b08c1ed9d895cddf0afca52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Server_Posting\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Server_Posting\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_a0b9def6cfc4e0206f321baa168fe112f4bc11f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Server_Posting\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6767928814147fb6f73342e4e95fb36cb90d29f9">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Server_Posting\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_78dab0b389c9ac22a2eabd1f3be0141b3358ae8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Server_Posting\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Server_Posting\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_58b0233d3472da0fe62007377ddd75c59a097af8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Server_Posting\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Server_Posting\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_79502e23e6f5a7258b19a4b5f7653ac8aa03098b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Server_Posting\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Server_Posting\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_c60b5c03e2c811173859f64f9c995d491f45a8b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Server_Posting\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Server_Posting\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_14b0566b4051685973d5597cd12ffe7ccfff94df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Server_Posting\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_1ed332b5538a36a02c565625ce121f18544140c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Server_Posting\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2985d170401de72eefba0b1655b82de15cf25c90">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Server_Posting\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a1210fa23f615ea2056818247e211d303e0bf8a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Server_Posting\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Server_Posting\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_5e63ab6f1903f09d8c3057d5f19f15c6a1f1834d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Server_Posting\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Server_Posting\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_cbb477e466be4f70c4f02253be1493d082101a66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Server_Posting\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Server_Posting\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_88af333d2b04fa9e3e971c81e3a1623806183c2f\classes.dex" />
+    </item>
+
+</items>
